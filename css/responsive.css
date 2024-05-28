@@ -49,4 +49,18 @@
     .paras{
         padding: 0px;
     }
+    .team1{  
+        flex-direction: column;
+       
+    }
+    .team{
+       
+        
+       
+       
+      
+        margin: 100px 108px;
+        width: 100%;
+        
+    }    
 }
